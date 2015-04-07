@@ -45,6 +45,7 @@ public class MyActivity extends ActionBarActivity {
     /** Called when the user clicks the Send button */
 
     private void openSearch() {
+        int mju = 2;
     }
 
     public void sendMessage(View view) {
